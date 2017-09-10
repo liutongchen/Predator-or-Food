@@ -1,1 +1,1 @@
-A server hosting the static file of the game
+https://predator-or-food.herokuapp.com/
