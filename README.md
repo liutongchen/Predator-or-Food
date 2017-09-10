@@ -1,0 +1,1 @@
+A server hosting the static file of the game

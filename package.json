@@ -1,0 +1,17 @@
+{
+  "name": "iiaas",
+  "version": "1.0.0",
+  "description": "Incrementing Integer as a Service.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liutong Chen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1"
+  }
+}
